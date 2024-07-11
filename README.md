@@ -47,14 +47,4 @@ Just start "StartAccount1.bat" and "StartAccount2.bat" at the same time
 🙏 Support me by following me and leave a star 🙏
 ```
 
-## Author
-
-* **qpeckin** -  [YouTube](https://www.youtube.com/channel/UCfPkJWN0qF3CsWiGYNlhACQ)
-
-
-## Shoutout
-
-* Highly Inspired by [Koncealed](https://github.com/RobertSkonieczny/node-steam-trade-farm)
-* Thanks to [Zyffu](https://github.com/Zyffu) for helping me with maths
-
 
